@@ -26,7 +26,7 @@ const LoginPage = () => {
               Sign In
             </Button>
           </Stack>
-          <Text>Don't have an account yet? Sign up.</Text>
+          <Text>Don&apos;t have an account yet? Sign up.</Text>
         </Container>
 
 
